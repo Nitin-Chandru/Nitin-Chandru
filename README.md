@@ -10,4 +10,6 @@
 2) Achieved visualization of customer churn data of 7000+ customers using Power BI.
 3) Designed visualization of HR data to aid Diversity and Inclusion of 500+ employees at PwC Switzerland.
 ![alt text](https://github.com/Nitin-Chandru/Nitin-Chandru/blob/main/images/call%20centre%20image.JPG)
+![alt_text](https://github.com/Nitin-Chandru/Nitin-Chandru/blob/main/images/churn%20image.JPG)
+![alt_text](https://github.com/Nitin-Chandru/Nitin-Chandru/blob/main/images/customer%20risk%20image.JPG)
 
