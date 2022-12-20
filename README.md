@@ -34,3 +34,11 @@
 
 ![alt_text](https://github.com/Nitin-Chandru/Nitin-Chandru/blob/main/images/hr%202%20image.JPG)
 
+
+## Project 4
+## BigMart_Sales_Prediction
+1) Performed EDA on the dataset that contained sales data of BigMart stores across the country.
+2) Applied machine learning techniques to predict sales of a store in a particular city.
+
+![alt_text](https://github.com/Nitin-Chandru/Nitin-Chandru/blob/main/images/bigmart_sales%20image.JPG)
+
