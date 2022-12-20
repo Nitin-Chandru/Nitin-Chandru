@@ -6,10 +6,6 @@
 2) Conducted Exploratory Data Analysis and Feature Engineering on dataset containing top 10 artists on the HOT-100 chart for 16 years.
 3) Implemented Machine Learning algorithms and fine-tuned the hyper-parameters to procure the highest possible accuracy.
 
-![alt_text](https://github.com/Nitin-Chandru/Nitin-Chandru/blob/main/images/image%20techno.png)
-
-![alt_text](https://github.com/Nitin-Chandru/Nitin-Chandru/blob/main/images/image%202%20techno.png)
-
 
 
 ## Project 2
