@@ -7,6 +7,7 @@
 • Implemented Machine Learning algorithms and fine-tuned the hyper-parameters to procure the highest possible accuracy.
 
 
+
 ## Project 2
 ## Data Analytics
 1) Investigated discrepancies in data quality and suggested ways to overcome those to prevent future hindrances.
@@ -14,6 +15,8 @@
 3) Created interactive dashboards in Power BI to present findings and data trends.
 
 ![alt text](https://github.com/Nitin-Chandru/Nitin-Chandru/blob/main/images/KPMG%20report.JPG)
+
+
 
 ## Project 3
 ## Customer Churn Analysis
