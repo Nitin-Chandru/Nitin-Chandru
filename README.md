@@ -2,9 +2,13 @@
 
 ## Project 1
 ## Song Popularity Prediction
-• Collected data from Billboard and YouTube to extract 100+ song names, artist names and audio files.
-• Conducted Exploratory Data Analysis and Feature Engineering on dataset containing top 10 artists on the HOT-100 chart for 16 years.
-• Implemented Machine Learning algorithms and fine-tuned the hyper-parameters to procure the highest possible accuracy.
+1) Collected data from Billboard and YouTube to extract 100+ song names, artist names and audio files.
+2) Conducted Exploratory Data Analysis and Feature Engineering on dataset containing top 10 artists on the HOT-100 chart for 16 years.
+3) Implemented Machine Learning algorithms and fine-tuned the hyper-parameters to procure the highest possible accuracy.
+
+![alt_text](https://github.com/Nitin-Chandru/Nitin-Chandru/blob/main/images/image%20techno.png)
+
+![alt_text](https://github.com/Nitin-Chandru/Nitin-Chandru/blob/main/images/image%202%20techno.png)
 
 
 
