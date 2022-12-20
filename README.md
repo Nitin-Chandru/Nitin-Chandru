@@ -19,6 +19,14 @@
 
 
 ## [Project 3](https://github.com/Nitin-Chandru/Customer-Churn-Analysis---PwC-Switzerland)
+### [BigMart_Sales_Prediction](https://github.com/Nitin-Chandru/BigMart_Sales_Prediction)
+1) Performed EDA on the dataset that contained sales data of BigMart stores across the country.
+2) Applied machine learning techniques to predict sales of a store in a particular city.
+
+![alt_text](https://github.com/Nitin-Chandru/Nitin-Chandru/blob/main/images/bigmart_sales%20image.JPG)
+
+
+## [Project 4](https://github.com/Nitin-Chandru/BigMart_Sales_Prediction)
 ### [Customer Churn Analysis - PwC Switzerland](https://github.com/Nitin-Chandru/Customer-Churn-Analysis---PwC-Switzerland)
 1) Worked on designing dashboards to identify call centre trends of 5000+ employees.
 2) Achieved visualization of customer churn data of 7000+ customers using Power BI.
@@ -34,11 +42,4 @@
 
 ![alt_text](https://github.com/Nitin-Chandru/Nitin-Chandru/blob/main/images/hr%202%20image.JPG)
 
-
-## [Project 4](https://github.com/Nitin-Chandru/BigMart_Sales_Prediction)
-### [BigMart_Sales_Prediction](https://github.com/Nitin-Chandru/BigMart_Sales_Prediction)
-1) Performed EDA on the dataset that contained sales data of BigMart stores across the country.
-2) Applied machine learning techniques to predict sales of a store in a particular city.
-
-![alt_text](https://github.com/Nitin-Chandru/Nitin-Chandru/blob/main/images/bigmart_sales%20image.JPG)
 
