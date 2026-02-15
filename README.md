@@ -9,14 +9,13 @@ My work sits at the intersection of:
 - human-in-the-loop automation
 - interpretable product behavior
 
-I’m particularly interested in problems where the challenge isn’t building features -  
-it’s making outputs believable enough for users to act on them.
+I’m particularly interested in problems where the challenge isn’t building features - It’s making outputs believable enough for users to act on them.
 
 ---
 
 ## What I Do Professionally
 
-**Product Manager - Origin Medical Research Lab**
+**Product Manager - Origin Medical**
 
 I work on an AI-powered workflow platform used in real operational environments.
 
@@ -27,8 +26,7 @@ I focus on questions like:
 - How do we introduce AI into critical workflows without removing user control?
 - How do outputs become trusted enough for real-world use?
 
-The hardest part is rarely the model —  
-it’s designing behavior people are comfortable relying on.
+The hardest part is rarely the model - It’s designing behavior people are comfortable relying on.
 
 ---
 
@@ -36,7 +34,7 @@ it’s designing behavior people are comfortable relying on.
 
 ---
 
-### 🧠 RetailSense Decision Engine
+### 🧠 RetailSense
 *A retail merchandising decision-support system*
 
 Retail chains often rely on general rules like “bigger stores sell more”.  
@@ -51,7 +49,7 @@ Instead of predicting sales, the system helps planners decide:
 
 ---
 
-### 📉 Customer Churn Decision System
+### 📉 RetentionIQ
 *Designing interventions based on churn risk*
 
 Many churn models stop at probability scores.  
@@ -68,7 +66,7 @@ The emphasis is on operational clarity — not predictive accuracy.
 
 ---
 
-### 🧩 Customer Value Segmentation (RFM)
+### 🧩 ValueScope
 *Behavior-based customer prioritization*
 
 Businesses often see customer metrics but struggle to decide who deserves attention.  
@@ -96,9 +94,7 @@ You’ll notice most repos emphasize:
 
 and less emphasis on model complexity.
 
-That is intentional.
-
-I treat algorithms as components of products — not the product itself.
+I treat algorithms as components of products - not the product itself.
 
 ---
 
@@ -114,5 +110,5 @@ I treat algorithms as components of products — not the product itself.
 
 ## Contact
 
-**LinkedIn:** (add link)  
-**Email:** (add email)
+**LinkedIn:** https://www.linkedin.com/in/nitinchandru/
+**Email:** nitin.chandru0503@gmail.com
