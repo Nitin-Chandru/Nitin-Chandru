@@ -9,7 +9,7 @@ My work sits at the intersection of:
 - human-in-the-loop automation
 - interpretable product behavior
 
-I’m particularly interested in problems where the challenge isn’t building features —  
+I’m particularly interested in problems where the challenge isn’t building features -  
 it’s making outputs believable enough for users to act on them.
 
 ---
