@@ -1,5 +1,5 @@
 # Hi, I'm Nitin 👋
-### Product Manager — AI Systems, Decision-Support & Workflow Products
+### Product Manager - AI Systems, Decision-Support & Workflow Products
 
 I build products that help people make better decisions.
 
@@ -16,7 +16,7 @@ it’s making outputs believable enough for users to act on them.
 
 ## What I Do Professionally
 
-**Product Manager — Origin Medical Research Lab**
+**Product Manager - Origin Medical Research Lab**
 
 I work on an AI-powered workflow platform used in real operational environments.
 
