@@ -1,45 +1,109 @@
-# Nitin Chandru Portfolio
+# Hi, I'm Nitin 👋
+### Product Manager — AI Systems, Enterprise Workflows & Decision-Support Products
 
-## [Project 1](https://github.com/Nitin-Chandru/Song-Popularity-Prediction)
-### [Song Popularity Prediction](https://github.com/Nitin-Chandru/Song-Popularity-Prediction)
-1) Collected data from Billboard and YouTube to extract 100+ song names, artist names and audio files.
-2) Conducted Exploratory Data Analysis and Feature Engineering on dataset containing top 10 artists on the HOT-100 chart for 16 years.
-3) Implemented Machine Learning algorithms and fine-tuned the hyper-parameters to procure the highest possible accuracy.
+I build products where software has to make decisions humans trust.
 
+My experience sits at the intersection of:
+- AI-assisted workflows
+- complex operational processes
+- high-reliability environments
+- human-in-the-loop automation
 
+I’m especially interested in products where the challenge isn’t just building features — it’s making outputs believable enough for people to act on them.
 
-## [Project 2](https://github.com/Nitin-Chandru/Data-Analytics---KPMG)
-### [Data Analytics - KPMG](https://github.com/Nitin-Chandru/Data-Analytics---KPMG)
-1) Investigated discrepancies in data quality and suggested ways to overcome those to prevent future hindrances.
-2) Conducted Recency, Frequency, Monetary (RFM) analysis on 20000+ sales transactions of 3 months to identify high value customers.
-3) Created interactive dashboards in Power BI to present findings and data trends.
+---
 
-![alt text](https://github.com/Nitin-Chandru/Nitin-Chandru/blob/main/images/KPMG%20report.JPG)
+## What I Work On
 
+Most software solves tasks.  
+The products I like working on solve **judgment problems**.
 
+Examples:
+- When should a system assist vs stay silent?
+- How do we present AI outputs without removing user control?
+- What makes users trust a recommendation?
+- How do you turn model output into operational action?
 
-## [Project 3](https://github.com/Nitin-Chandru/Customer-Churn-Analysis---PwC-Switzerland)
-### [BigMart_Sales_Prediction](https://github.com/Nitin-Chandru/BigMart_Sales_Prediction)
-1) Performed EDA on the dataset that contained sales data of BigMart stores across the country.
-2) Applied machine learning techniques to predict sales of a store in a particular city.
+This GitHub is not a collection of code projects.  
+It is a collection of **product thinking artifacts**.
 
-![alt_text](https://github.com/Nitin-Chandru/Nitin-Chandru/blob/main/images/bigmart_sales%20image.JPG)
+---
 
+## Featured Case Studies
 
-## [Project 4](https://github.com/Nitin-Chandru/BigMart_Sales_Prediction)
-### [Customer Churn Analysis - PwC Switzerland](https://github.com/Nitin-Chandru/Customer-Churn-Analysis---PwC-Switzerland)
-1) Worked on designing dashboards to identify call centre trends of 5000+ employees.
-2) Achieved visualization of customer churn data of 7000+ customers using Power BI.
-3) Designed visualization of HR data to aid Diversity and Inclusion of 500+ employees at PwC Switzerland.
+### 🧠 RetailSense Decision Engine
+*A decision-support system for retail merchandising planning*
 
-![alt text](https://github.com/Nitin-Chandru/Nitin-Chandru/blob/main/images/call%20centre%20image.JPG)
+Instead of predicting sales, the system helps planners understand *why stores perform differently* and what operational changes improve outcomes.
 
-![alt_text](https://github.com/Nitin-Chandru/Nitin-Chandru/blob/main/images/churn%20image.JPG)
+Focus areas:
+- translating model outputs into decisions
+- designing interpretable signals
+- correcting operational assumptions
 
-![alt_text](https://github.com/Nitin-Chandru/Nitin-Chandru/blob/main/images/customer%20risk%20image.JPG)
+→ See repository: `retailsense-decision-engine`
 
-![alt_text](https://github.com/Nitin-Chandru/Nitin-Chandru/blob/main/images/HR%201%20image.JPG)
+---
 
-![alt_text](https://github.com/Nitin-Chandru/Nitin-Chandru/blob/main/images/hr%202%20image.JPG)
+### 🤖 AI Workflow Design (LLM & Human-in-the-Loop)
+Explores how AI systems should collaborate with users instead of replacing them.
 
+Focus areas:
+- validation before persistence
+- confidence-aware outputs
+- assistive vs autonomous behavior
 
+---
+
+### 📊 Operational Analytics → Product Decisions
+Several earlier analytics projects reworked into:
+> how data becomes action inside a product
+
+Not dashboards — decision flows.
+
+---
+
+## How To Read These Repos
+
+You will notice most repositories contain:
+
+- product reasoning
+- tradeoff decisions
+- system behavior design
+- interpretation layers
+
+and less emphasis on model complexity.
+
+That is intentional.
+
+I treat machine learning as a component of a product — not the product itself.
+
+---
+
+## What I'm Interested In
+
+I’m particularly drawn to problems involving:
+
+- AI copilots & assistive systems
+- workflow automation
+- fintech & compliance products
+- operational decision tools
+- systems with real-world consequences
+
+---
+
+## Outside of Work
+
+I enjoy breaking down products to understand why they succeed or fail —  
+especially where human trust determines adoption more than feature depth.
+
+---
+
+## Contact
+
+If you want to discuss product thinking, systems design, or interesting problems:
+
+**LinkedIn:** https://www.linkedin.com/in/nitinchandru/  
+**Email:** nitin.chandru0503@gmail.com
+
+---
